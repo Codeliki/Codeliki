@@ -1,10 +1,8 @@
 ## Hello busy people![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Liki
 
- :star2: A girl who codes and embarked on a thrilling journey into the world of front-end development.
+I'm a seasoned Software Engineer with a Master's Degree in Computer Science, and my journey into the world of technology started from a very young age. Fascinated by the endless possibilities that technology offers, I embarked on a path that has been both challenging and incredibly rewarding.
 
-💻 Crafting digital dreams, one line of code at a time. Embracing the art of web design and the philosophy that learning never ends. 
-
-💖 Surprisingly, I discovered a passion that I never knew existed. The more I delved into HTML, CSS, and JavaScript, the more I fell in love with the art of turning lines of code into beautiful, user-friendly interfaces.
+From tinkering with my first computer to developing complex software solutions, my passion for technology has been the driving force behind my career. I believe that technology has the power to transform lives, and this belief has motivated me to dive deeper into the tech world, exploring new trends, learning cutting-edge technologies, and constantly pushing the boundaries of what I know.
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -35,4 +33,6 @@ Email ID: likithauppala05@gmail.com
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Codeliki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/likitha-uppala-4a9637188/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/Codeliki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/likitha-uppala-4a9637188/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+
+</p>
